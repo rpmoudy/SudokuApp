@@ -1,0 +1,7 @@
+**DISCLAIMER** Pencil mode does not work because I haven't programed that logic yet. I need to refactor quite a bit of the code to account for this and just haven't set time aside to implement this. 
+
+There is also a layout or two that needs to be removed...
+
+The project as is can be found on the Google Play Store under "Ryans Sudoku App".
+
+Use Android Studio, as IDE, if you wish to open the project. 
